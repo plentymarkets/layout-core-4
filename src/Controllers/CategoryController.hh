@@ -1,7 +1,7 @@
 <?hh //strict
 namespace LayoutCore\Controllers;
 
-use Plenty\Modules\Category\Contracts\CategoryRepository;
+use Plenty\Modules\Category\Contracts\CategoryRepositoryContract;
 use Plenty\Modules\Item\DataLayer\Contracts\ItemDataLayerRepositoryContract;
 use Plenty\Modules\Category\Models\Category;
 
